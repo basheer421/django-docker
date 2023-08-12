@@ -1,4 +1,6 @@
 # django-docker
-To run the server type in the terminal: ./run
+To run the server type in the terminal: `./run`
+<br>
 Make sure to have docker in your system
-./stop will stop the server
+<br>
+`./stop` will stop the server
